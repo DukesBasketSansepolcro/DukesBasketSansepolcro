@@ -1,2 +1,2 @@
 # DukesBasketSansepolcro
-Sito web della società sportiva dilettantistica di pallacanestro Dukea Basket di Sansepolcro. 
+Sito web della società sportiva dilettantistica di pallacanestro Dukes Basket di Sansepolcro. 
